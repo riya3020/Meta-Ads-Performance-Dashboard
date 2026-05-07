@@ -4,6 +4,13 @@
 
 
 
-Project Overview : Tracking Meta Ads spend, leads, and conversion metrics.
-Tool Used : Power BI, DAX, Excel.
-Key Features : Interactive slicers, daily trends, CPL analysis
+##Project Overview 
+Tracking Meta Ads spend, leads, and conversion metrics to analyze campaign efficiently.
+##Tool Used 
+**Power BI** (Data Visualization)
+**DAX** (Calculated Measures)
+**Excel** (Data Cleaning)
+##Key Features
+**Interactive slicers** Filter Data by Month and Campaign.
+**Daily Performance Trends** Dual-axis chart for Leads vs Spend.
+**CPL Analysis** Real-time Cost Per Lead tracking across different ad sets.
