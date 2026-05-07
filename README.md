@@ -17,3 +17,5 @@ Tracking Meta Ads spend, leads, and conversion metrics to analyze campaign effic
 **Interactive slicers** Filter Data by Month and Campaign.
 **Daily Performance Trends** Dual-axis chart for Leads vs Spend.
 **CPL Analysis** Real-time Cost Per Lead tracking across different ad sets.
+
+* [📥 Download Power BI File (.pbix)](./Meta%20ADS%20performance%20dashboard.pbix)
